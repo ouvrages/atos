@@ -1,6 +1,5 @@
 require "atos/version"
-
-'require exception_handler.rb'
+require 'atos/exception_handler'
 
 class Atos
 
